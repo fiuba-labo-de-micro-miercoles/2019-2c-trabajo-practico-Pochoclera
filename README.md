@@ -4,5 +4,4 @@ Repositorio para la documentación de proyectos de
 Nombre del proyecto: Máquina para hacer pochoclos
 
 Integrantes:
-Direnzo, Nicolas
-De Maio, Victoria 
+Direnzo, Nicolas; De Maio, Victoria 
